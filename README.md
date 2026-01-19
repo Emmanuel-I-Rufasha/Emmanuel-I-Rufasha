@@ -67,6 +67,6 @@ RigAtlas is both a study tool and a proof of concept showing how good architectu
 ---
 
 ## 📫 Let’s Connect
-- 🌐 [LinkedIn](#) *(add your link when ready)*  
+- 🌐 [LinkedIn](#)  
 - 📧 [Email](#)  
 - 🧰 [RigAtlas Repository](#)
